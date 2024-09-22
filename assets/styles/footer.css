@@ -1,0 +1,12 @@
+.contact{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;  
+  background-color:rgb(58, 53, 53);
+  color:gray;
+  padding-top: 15px;
+  font-size: 12px;
+}
+.info{
+  margin-left: 280px;
+}
